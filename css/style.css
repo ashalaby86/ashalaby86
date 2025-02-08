@@ -12865,9 +12865,9 @@ h5,
   z-index: 0;
 }
 
-.project.img-2 {
+/* .project.img-2 {
   height: 600px;
-}
+} */
 
 @media (max-width: 767.98px) {
   .project.img-2 {
@@ -13950,3 +13950,10 @@ textarea.form-control {
   transform: translateX(-50%);
   width: auto;
 }
+
+
+/* .project.img {
+  background-size: contain !important;
+  background-repeat: no-repeat;
+  background-position: center center;
+} */
